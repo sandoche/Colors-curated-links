@@ -1,6 +1,6 @@
 # Colors curated links
 A curated list of tools to help you make the best color palettes.
-Read more about this list and how to make the best color palettes: http://learn.uno
+Read more about this list and how to make the best color palettes: https://medium.com/learning-lab/how-i-learnt-about-color-theories-and-made-my-best-color-palettes-in-one-month-a461604ca669
 
 ## Palettes
 
