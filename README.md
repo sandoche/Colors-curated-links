@@ -27,7 +27,7 @@ Read more about this list and how to make the best color palettes: https://mediu
 
 ### By yourself
 
-* [Colors interactor](http://colors.learn.uno/) — Check the interactions between the colors of your palette
+* [Colors interactor](https://colors.learn.uno) — Check the interactions between the colors of your palette
 
 ## Information about colors
 
